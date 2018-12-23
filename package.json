@@ -4,6 +4,7 @@
   "description": "A Web App for Visualizing Skill of Members",
   "main": "webpack.config.js",
   "scripts": {
+    "start":"webpack-dev-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
